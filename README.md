@@ -13,3 +13,4 @@ OpenCV 라이브러리 학습 및 미니 프로젝트
   * convert image (Grayscale, Blur, Perspective Transform)
   * threshold
   * dilate
+  * erode
